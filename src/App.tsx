@@ -1,5 +1,5 @@
 
-// -------------------------------------------------------<PASSWORD GENERATOR APP STARTS HERE>--------------------------------------------------
+// -------------------------------------------------------<PASSWORD GENERATOR APP STARTS HERE>---------------------------------------
 
 /*
 import { SafeAreaView, ScrollView, StyleSheet, Text, TextInput, TouchableOpacity, View } from 'react-native';
