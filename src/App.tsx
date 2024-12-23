@@ -1,3 +1,6 @@
+
+// -------------------------------------------------------<PASSWORD GENERATOR APP STARTS HERE>--------------------------------------------------
+
 /*
 import { SafeAreaView, ScrollView, StyleSheet, Text, TextInput, TouchableOpacity, View } from 'react-native';
 import React, { useState } from 'react';
@@ -270,7 +273,11 @@ const styles = StyleSheet.create({
 
 
 */
-// PROJECT 3
+
+
+// -----------------------------------------<BACKGROUND CHANGER STARTS HERE>------------------------------------------------
+
+
 /*
 import { StatusBar, StyleSheet, Text, TouchableOpacity, View } from 'react-native';
 import React, { useState } from 'react';
@@ -362,7 +369,9 @@ const App = () => {
 export default App;
 
 // */
-// creating a currency convertor app 
+
+// ----------------------------------------------------< CURRENCY CONVERTOR APP STARTS HERE >-----------------------------------------------------
+
 /*
 import React, { useState } from 'react';
 
@@ -528,7 +537,7 @@ export default App;
 
 */
  
-// tic tac toe
+// -----------------------------------------------------------<TIC TAC TOE PROJECT STARTS HERE :->----------------------------------------------------------- 
 
 import { FlatList, Pressable, SafeAreaView, StatusBar, StyleSheet, Text, View } from 'react-native'
 import React, { useState } from 'react'
